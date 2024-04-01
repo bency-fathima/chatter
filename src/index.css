@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+input,body,button{
+  font-family: sans-serif;
+}
+
+body{
+  max-height: 100vh;
+  max-width: 100vh;
+  overflow: hidden;
+ }
